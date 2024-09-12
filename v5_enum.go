@@ -30,8 +30,9 @@ type SymbolV5 string
 // SymbolV5 :
 const (
 	// USDT Perpetual:
-	SymbolV5BTCUSDT = SymbolV5("BTCUSDT")
-	SymbolV5ETHUSDT = SymbolV5("ETHUSDT")
+	SymbolV5BTCUSDT  = SymbolV5("BTCUSDT")
+	SymbolV5ETHUSDT  = SymbolV5("ETHUSDT")
+	SymbolV5CATIUSDT = SymbolV5("CATIUSDT")
 
 	// USDC Perpetual
 	SymbolV5BTCPERP = SymbolV5("BTCPERP")
